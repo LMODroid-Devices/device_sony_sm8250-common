@@ -1,9 +1,11 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_hardware_sony",
     "target_path": "hardware/sony"
   },
   {
+    "remote": "lineage",
     "repository": "android_kernel_sony_sm8250",
     "target_path": "kernel/sony/sm8250"
   }
