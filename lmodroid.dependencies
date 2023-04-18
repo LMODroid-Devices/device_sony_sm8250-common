@@ -1,7 +1,6 @@
 [
   {
-    "remote": "lineage",
-    "repository": "android_hardware_sony",
+    "repository": "LMODroid/platform_hardware_sony",
     "target_path": "hardware/sony"
   },
   {
